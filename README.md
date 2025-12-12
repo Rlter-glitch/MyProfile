@@ -1,2 +1,0 @@
-# MyProfile
-Profile Private
